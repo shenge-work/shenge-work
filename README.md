@@ -122,5 +122,3 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%E5%9C%A8%E7%BA%BF%E4%BD%9C%E5%93%81%E9%9B%86-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shenge-work.github.io/portfolio)
 
 </div>
-
-> AI生成
