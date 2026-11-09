@@ -1,124 +1,103 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=200&section=header&text=Shenge&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" width="100%"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shenge-work/shenge-work/main/assets/profile-header.svg" alt="Shenge · AI 全栈工程师 · Agent 方向" width="100%" />
+</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=22&pause=1400&color=8B5CF6&center=true&vCenter=true&random=false&width=760&height=90&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20Shenge%20%F0%9F%91%8B&lines=AI%20%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88%20%C2%B7%20Agent%20%E6%96%B9%E5%90%91&lines=%E4%B8%BB%E5%AF%BC%206%20%E5%A5%97%E7%B3%BB%E7%BB%9F%E4%BB%8E%200%20%E5%88%B0%201&lines=Agent%20%E7%BC%96%E6%8E%92%20%C2%B7%20Agentic%20RAG%20%C2%B7%20MCP%20/%20Skill%20%E7%94%9F%E6%80%81&lines=%E4%B8%8D%E5%81%9C%E6%9C%BA%20%C2%B7%20%E5%8F%AF%E5%9B%9E%E6%BB%9A%20%C2%B7%20%E6%9C%80%E5%B0%8F%E6%94%B9%E5%8A%A8)](https://git.io/typing-svg)
+**Shenge（陈培胜）· AI 全栈工程师 / Agent 方向**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%E5%9C%A8%E7%BA%BF%E4%BD%9C%E5%93%81%E9%9B%86-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shenge-work.github.io/portfolio)
-[![求职状态](https://img.shields.io/badge/%E6%B1%82%E8%81%8C%E7%8A%B6%E6%80%81-%E5%BC%80%E6%94%BE%E6%96%B0%E6%9C%BA%E4%BC%9A%C2%B7%E9%9A%8F%E6%97%B6%E5%88%B0%E5%B2%97-22C55E?style=for-the-badge&logo=checkmark&logoColor=white)](https://shenge-work.github.io/portfolio)
-[![Visitors](https://komarev.com/ghpvc/?username=shenge-work&style=for-the-badge&color=8B5CF6)](https://github.com/shenge-work)
-[![Followers](https://img.shields.io/github/followers/shenge-work?label=Followers&style=for-the-badge&color=8B5CF6&logo=github)](https://github.com/shenge-work?tab=followers)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&random=false&width=680&height=80&lines=Agent%20%E7%BC%96%E6%8E%92%20%C2%B7%20Agentic%20RAG%20%C2%B7%20MCP%20%2F%20Skill&lines=%E5%A4%9A%E7%A7%9F%E6%88%B7%E4%BA%91%E6%B2%99%E7%AE%B1%20%C2%B7%20%E5%AE%9E%E6%97%B6%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%20%C2%B7%20IM%20%E8%A7%A6%E8%BE%BE&lines=%E4%B8%8D%E5%81%9C%E6%9C%BA%20%C2%B7%20%E5%8F%AF%E5%9B%9E%E6%BB%9A%20%C2%B7%20%E6%9C%80%E5%B0%8F%E6%94%B9%E5%8A%A8)](https://github.com/shenge-work)
 
-</div>
-
-## 🧑‍💻 关于我 · About Me
-
-```text
-🧑‍💻  Shenge — AI 全栈工程师（Agent 方向）
-🚀  5 年工程实战：主导 6 套系统从 0 到 1（CRM / 品牌官网 / AI 搜索 / 海外营销 / 投研工作台）
-🤖  专注 AI 工程化：Agent 编排 · Agentic RAG · MCP / Skill 生态 · 多租户云沙箱
-🧭  技术决策三原则：不停机 · 可回滚 · 最小改动
-🎓  软件工程 · 本科 ｜ 国家励志奖学金 · 在职获评「高级程序员」职称
-📍  深圳 · 广州 · 远程 ｜ 开放新机会 · 随时到岗
-```
-
-## 💼 经历亮点 · Experience
-
-**金融投研头部公司** — AI 全栈工程师 · AI 团队主力研发 `2026.01 — 2026.07`
-- 搭建 QwenPaw / OpenCode 通用 Agent 基座：多租户云沙箱、Skill 全生命周期管控、Flink 实时计费链路
-- 设计 MCP / Skill 统一能力扩展体系，自研消息频道中心实现 Agent 投研结果多 IM 实时触达（飞书 / 企微 / 钉钉）
-
-**红杉投资 AI 初创公司** — AI 全栈工程师 · 创始团队成员 `2024.03 — 2025.11`
-- 主导 AI 人脉搜索引擎：Multi-Agent + Agentic RAG，精准度 **+30%** · 单次找人成本 **-80%** · 定位耗时 **-60%**
-- 0→1 自建海外邮件群发系统：月均 **50 万+** 有效触达，送达率稳定 **95%+**
-- 研发海外红人营销平台，**300 万+** 网红画像与视频数据日更
-
-**港资零售集团（电商）** — Java 开发工程师 · 获评「高级程序员」`2021.09 — 2023.06`
-- 多渠道潜客线索跟踪 CRM 平台核心研发；品牌官网会员体系与支付链路
-
-## 🎨 核心作品 · Featured Works
-
-- **AI 投研工作台**（金融投研）— 通用 Agent 基座 · 多租户云沙箱 · MCP / Skill 治理 · Flink 实时计费链路
-- **AI 人脉搜索引擎** — Multi-Agent + Agentic RAG · 精准度 +30% · 找人成本 -80% · 定位耗时 -60%
-- **海外红人营销平台** — 大模型 + 多模态数据 · 300 万+ 网红画像日更 · 品牌与创作者全链路闭环
-- **MAIL ENGINE 邮件触达系统** — 自建基建 · 月均 50 万+ 有效触达 · 送达率 95%+ · 域名信誉全链路自持
-
-<div align="center">
-
-▶ 完整档案（履历 / 项目详情 / 技能矩阵 / 获奖证书）见在线作品集
-
-[![Portfolio](https://img.shields.io/badge/▶_shenge--work.github.io%2Fportfolio-点击查看-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shenge-work.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%E5%9C%A8%E7%BA%BF%E4%BD%9C%E5%93%81%E9%9B%86-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shenge-work.github.io)
+[![Open to Work](https://img.shields.io/badge/Open_to_Work-AI%20%2F%20Agent_Roles-22C55E?style=for-the-badge&logo=checkmark&logoColor=white)](mailto:shenge.work@gmail.com)
+[![Email](https://img.shields.io/badge/Email-shenge.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shenge.work@gmail.com)
 
 </div>
+
+> 这一页是**索引**，不是简历全文。履历、项目详情、技能矩阵与获奖证书以 [在线作品集](https://shenge-work.github.io) 为准。
+
+## ⚡ 速览 · At a Glance
+
+| | |
+| :--- | :--- |
+| **定位** | AI 全栈工程师 · Agent 工程化 / Agentic RAG |
+| **经验** | 5 年工程实战，主导 6 套系统从 0 到 1 |
+| **专长** | Agent 编排 · MCP / Skill 生态 · 多租户云沙箱 · 实时数据链路 |
+| **原则** | 不停机 · 可回滚 · 最小改动 |
+| **背景** | 软件工程本科 · 国家励志奖学金 · 在职获评「高级程序员」 |
+| **地点** | 深圳 / 广州 / 远程 |
+| **状态** | 🟢 开放新机会 · 随时到岗 |
+
+## 🎯 现在 · Now
+
+- 开放 **AI 全栈 / Agent 平台** 方向的机会，随时到岗，可直接邮件联系。
+- 持续维护两个开源项目：[`career-agent`](https://github.com/shenge-work/career-agent)（本地优先求职工作台：PGlite + Electron + E2EE 跨设备同步）与 [`im-gateway`](https://github.com/shenge-work/im-gateway)（Go 多平台 IM 统一网关：分布式租约与幂等）。
+- 完整档案 → [shenge-work.github.io](https://shenge-work.github.io)
+
+## 🔓 精选开源 · Open Source
+
+> 下面每个链接都指向真实存在的仓库，点开即有源码与 README。
+
+| 项目 | 语言 / License | 看点 |
+| :--- | :--- | :--- |
+| [**career-agent**](https://github.com/shenge-work/career-agent) | TypeScript · MIT | 本地优先的求职工作台：岗位为第一公民，A4 实时简历预览与矢量 PDF、公司档案 / 内推 / 投递追踪，PGlite + Electron 桌面端，E2EE 跨设备同步与冲突恢复 |
+| [**im-gateway**](https://github.com/shenge-work/im-gateway) | Go · Apache-2.0 | 多平台 IM 统一网关：适配器屏蔽飞书 / 钉钉 / 企微 / 微信 / QQ 差异，六段流水线 + 分布式租约 / 去重 / 限流，单一二进制零运行时依赖 |
+| [**shenge-work.github.io**](https://github.com/shenge-work/shenge-work.github.io) | JavaScript | 在线求职作品集：履历 / 项目 / 技能 / 证书，附 AI 简历问答 |
 
 ## 🛠️ 技术栈 · Tech Stack
 
 <div align="center">
 
-**Languages**
+**Languages & Frameworks**
 
-![Languages](https://skillicons.dev/icons?i=python,java,ts,js,go,vue&theme=dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,ts,js,go,vue&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,go,vue&theme=light" alt="Python, Java, TypeScript, JavaScript, Go, Vue" />
+</picture>
 
 **Backend & Infra**
 
-![Infra](https://skillicons.dev/icons?i=spring,mysql,redis,docker,kubernetes,jenkins,git,linux&theme=dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=spring,mysql,redis,docker,kubernetes,jenkins,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,mysql,redis,docker,kubernetes,jenkins,git,linux&theme=light" alt="Spring, MySQL, Redis, Docker, Kubernetes, Jenkins, Git, Linux" />
+</picture>
 
-**AI Ecosystem**
+**AI / Agent**
 
-![LangChain](https://img.shields.io/badge/LangChain-%20-24283b?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-%20-24283b?style=flat-square)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%20-24283b?style=flat-square)
-![Milvus](https://img.shields.io/badge/Milvus-%20-24283b?style=flat-square)
-![Flink](https://img.shields.io/badge/Flink-%20-24283b?style=flat-square)
-![RocketMQ](https://img.shields.io/badge/RocketMQ-%20-24283b?style=flat-square)
-![Dify](https://img.shields.io/badge/Dify-%20-24283b?style=flat-square)
-![MCP·Skill](https://img.shields.io/badge/MCP%C2%B7Skill-%20-24283b?style=flat-square)
-![QwenPaw·OpenCode](https://img.shields.io/badge/QwenPaw%C2%B7OpenCode-%20-24283b?style=flat-square)
-![AWS SES](https://img.shields.io/badge/AWS%20SES-%20-24283b?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-5B4B8A?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-4C51BF?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-2B6CB0?style=flat-square)
+![Milvus](https://img.shields.io/badge/Milvus-2C5282?style=flat-square)
+![Flink](https://img.shields.io/badge/Flink-9B2C5E?style=flat-square)
+![RocketMQ](https://img.shields.io/badge/RocketMQ-B14A2E?style=flat-square)
+![Dify](https://img.shields.io/badge/Dify-26547C?style=flat-square)
+![MCP / Skill](https://img.shields.io/badge/MCP%20%2F%20Skill-553C9A?style=flat-square)
+![AWS SES](https://img.shields.io/badge/AWS%20SES-8A5A1F?style=flat-square)
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shenge-work&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=shenge-work&theme=tokyonight&hide_border=true" alt="Streak stats" />
-</div>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenge-work&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top languages" />
-  <img height="165" src="https://github-profile-trophy.vercel.app/?username=shenge-work&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=6" alt="Trophies" />
-</div>
-
-## 🔓 精选开源 · Open Source
-
-<div align="center">
-  <a href="https://github.com/shenge-work/resume-builder">
-    <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=shenge-work&repo=resume-builder&theme=tokyonight&hide_border=true" alt="resume-builder" />
-  </a>
-  <a href="https://github.com/shenge-work/WeChatPrivacySkin">
-    <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=shenge-work&repo=WeChatPrivacySkin&theme=tokyonight&hide_border=true" alt="WeChatPrivacySkin" />
-  </a>
-  <br/>
-  <a href="https://github.com/shenge-work/gitlab-sync-studio">
-    <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=shenge-work&repo=gitlab-sync-studio&theme=tokyonight&hide_border=true" alt="gitlab-sync-studio" />
-  </a>
-</div>
-
-## 🐍 Contribution Snake
+## 🐍 贡献图 · Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shenge-work/shenge-work/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shenge-work/shenge-work/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/shenge-work/shenge-work/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/shenge-work/shenge-work/output/github-snake.svg" width="100%" />
 </picture>
 
-## 📫 联系我 · Let's Connect
+<sub>由 `.github/workflows/snake.yml` 每日 02:00 UTC 自动生成并推送到 `output` 分支，无需手动维护。</sub>
+
+## 📫 联系 · Let's Connect
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-shenge--work.github.io-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shenge-work.github.io)
+[![Email](https://img.shields.io/badge/Email-shenge.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shenge.work@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-shenge--work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shenge-work)
-[![Gmail](https://img.shields.io/badge/Gmail-shenge.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shenge.work@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%E5%9C%A8%E7%BA%BF%E4%BD%9C%E5%93%81%E9%9B%86-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shenge-work.github.io/portfolio)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=shenge-work&style=flat-square&color=8B5CF6)](https://github.com/shenge-work)
+
+<sub>最后更新 2026.11 · 内容以 <a href="https://shenge-work.github.io">在线作品集</a> 为准</sub>
 
 </div>
